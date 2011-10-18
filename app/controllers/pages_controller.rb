@@ -5,4 +5,7 @@ class PagesController < ApplicationController
   def cotact
   end
 
+  def about
+  end
+
 end
